@@ -1,0 +1,294 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.fly-buy-logo {
+    height: 100px;
+    width: 250px;
+}
+
+#navbar-list {
+    font-size: 20px;
+}
+
+.our-services-bg-container {
+    background-color: #ffffff;
+    padding: 15px;
+}
+
+.our-services-heading {
+    color: #1f2933;
+    padding-top: 30px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.our-services-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.our-services-card-container {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.our-services-card-images {
+    height: 130px;
+    width: 130px;
+}
+
+.our-services-card-heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.our-services-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 23px;
+}
+
+.our-products-heading {
+    color: #183b56;
+}
+
+.products-card {
+    border-radius: 10px;
+    padding: 10px;
+    height: 320px;
+}
+
+.headphones-image {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+}
+
+.product-name {
+    font-size: 35px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.product-description {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 26px;
+}
+
+.view-details-button {
+    color: #ff9f00;
+    background-color: #ffffff;
+    border-radius: 18px;
+}
+
+.laptop-image {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    height: 320px;
+}
+
+.view-details-product-description {
+    font-size: 20px;
+}
+
+.view-details-product-specifications {
+    color: #323f4b;
+    font-weight: bold;
+}
+
+.view-details-product-specifications-description {
+    color: #323f4b;
+    font-size: 20px;
+}
+
+.buy-now-button {
+    height: 40px;
+    width: 90px;
+    border-radius: 5px;
+    background-color: #ffffff;
+}
+
+.see-all-offers {
+    color: #ff9f00;
+}
+
+.icon {
+    color: #ff9f00;
+    font-size: 10px;
+}
+
+.trending-blogs-bg-container {
+    background-color: #ffffff;
+}
+
+.trending-blogs-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.blogs-card {
+    border-radius: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+    background-color: #ffffff;
+}
+
+.card-title {
+    color: #959ead;
+}
+
+.trending-blogs-card-heading {
+    font-size: 34px;
+    font-weight: 700;
+    color: #183b56;
+}
+
+.trending-blogs-card-description {
+    font-size: 28px;
+    color: #959ead;
+}
+
+.read-more {
+    color: #ff9f00;
+    font-weight: bold;
+}
+
+.right-arrow {
+    margin-left: 6px;
+    font-size: 10px;
+}
+
+
+.explore-deals-bg-container {
+    background-color: #f5f7fa;
+}
+
+.explore-deals-and-offers {
+    color: #183b56;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.gadget-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.card-heading {
+    color: #183b56;
+    font-size: 36px;
+    padding: 10px;
+}
+
+.electronic-item-images {
+    height: 160px;
+    width: 180px;
+    border-radius: 15px;
+}
+
+.electronic-gadget-name {
+    color: #1f2933;
+    font-size: 20px;
+}
+
+.see-all-details {
+    margin-left: 24px;
+    font-weight: bold;
+    color: #ff9f00;
+}
+
+.explore-deals-right-arrow {
+    margin: 10px;
+    font-size: 16px;
+}
+
+.tv-image {
+    width: 100%;
+    border-radius: 25px;
+}
+
+.join-together-bg-container {
+    background-color: #f5f7fa;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.join-together-heading {
+    color: #183b56;
+}
+
+
+.contact-us-button {
+    color: #ff9f00;
+    width: 130px;
+    background-color: transparent;
+    margin-top: 10px;
+    padding: 8px;
+    border-style: solid;
+    border-color: #ff9f00;
+    border-width: 3px;
+}
+
+
+.footer-bg-container {
+    background-color: #0d2436;
+}
+
+.flybuy-image {
+    width: 200px;
+}
+
+.icons-containers {
+    height: 60px;
+    width: 60px;
+    border-radius: 60px;
+    padding: 10px;
+    padding-top: 15px;
+    background-color: #152c3e;
+}
+
+.icon {
+    font-size: 35px;
+    color: #5a7184;
+}
+
+.address {
+    color: #5a7184;
+    font-weight: 500;
+}
+
+.bottom-headings {
+    font-size: 24px;
+    color: #5a7184;
+}
+
+.bottom-text {
+    font-size: 20px;
+    color: #5a7184;
+}
+
+.unodered-list {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.horizontal-line {
+    border-style: solid;
+    border-width: 2px;
+    color: #5a7184;
+}
+
+.bottom-copyright-icon {
+    color: #5a7184;
+    margin-right: 8px;
+}
+
+.bottom-copyright-text {
+    font-size: 24px;
+    color: #5a7184;
+}
